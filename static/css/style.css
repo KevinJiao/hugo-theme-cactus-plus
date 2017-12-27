@@ -276,8 +276,13 @@ li {
 
 ul>li {
     list-style-type: circle;
+    padding-left: 1em;
 }
 
+ul>li>ul>li{
+    list-style-type: square;
+    padding-left: 1em;
+}
 
 /* Line Height */
 
