@@ -271,7 +271,7 @@ ul {
 }
 
 li {
-    list-style-position: inside;
+    list-style-position: outside;
 }
 
 ul>li {
